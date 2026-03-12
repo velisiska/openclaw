@@ -54,6 +54,7 @@ import type {
 export {
   archiveFileOnDisk,
   archiveSessionTranscripts,
+  attachOpenClawTranscriptMeta,
   capArrayByJsonBytes,
   readFirstUserMessageFromTranscript,
   readLastMessagePreviewFromTranscript,
